@@ -1,0 +1,17 @@
+Get-EC2InstanceMetadata -Category IdentityDocument
+{
+  "availabilityZone" : "us-east-1a",
+  "devpayProductCodes" : null,
+  "marketplaceProductCodes" : null,
+  "version" : "2017-09-30",
+  "instanceId" : "i-01ed50f7e2607f09e",
+  "billingProducts" : [ "bp-6ba54002" ],
+  "instanceType" : "t2.micro",
+  "imageId" : "ami-b2e*",
+  "privateIp" : "10.0.0.171",
+  "accountId" : "111122223333",
+  "architecture" : "x86_64",
+  "kernelId" : null,
+  "ramdiskId" : null,
+  "region" : "us-east-1"
+}
